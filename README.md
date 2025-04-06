@@ -45,5 +45,7 @@ pip install -r requirements.txt
 ```
 
 ### 🔧 Cara 2: Install satu per satu (jika mengalami kendala)
+```
 pip install nltk sastrawi google-play-scraper
 pip install scikit-learn tensorflow
+```
