@@ -68,15 +68,14 @@ pip install scikit-learn tensorflow
 
 ## 📊 Dataset
 
-- **Nama Aplikasi:** Indodax – Buy and Sell Bitcoin
+- **Nama Aplikasi:** Indodax 
 - **Bahasa Review:** Bahasa Indonesia
-- **Jumlah Target Data:** ≥ 10.000 review
+- **Jumlah Target Data:** = 15.000 review
 - **Format File:** `indodax_reviews.csv`
 - **Label Sentimen:**  
   - 🟢 Positif  
   - ⚪ Netral  
   - 🔴 Negatif  
-  _(Label diberikan secara manual atau semi-otomatis)_
 
 ---
 
