@@ -58,10 +58,11 @@ pip install scikit-learn tensorflow
    - ✅ Pembersihan data (cleaning)
    - ✂️ Tokenisasi, stopword removal, dan stemming menggunakan `nltk` dan `Sastrawi`
    - 🔁 Normalisasi kata tidak baku menggunakan `slang.json`
+   - 🌥️ Visualisasi hasil analisis seperti WordCloud dan distribusi sentimen
    - 📊 Ekstraksi fitur menggunakan **TF-IDF** atau **Tokenizer + Padding**
    - 🧠 Pelatihan model Machine Learning & Deep Learning
    - 📈 Evaluasi performa model (akurasi, confusion matrix, f1-score, dll)
-   - 🌥️ Visualisasi hasil analisis seperti WordCloud dan distribusi sentimen
+   - 🔍 Inference testing pada data baru
 
 ---
 
